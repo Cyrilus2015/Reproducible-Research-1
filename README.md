@@ -1,8 +1,5 @@
-# Reproducible-Research-1
-Course Project 1
-
-##Review criteria
-#Repo
+#Review criteria
+##Repo
 
 Valid GitHub URL
 
@@ -12,7 +9,7 @@ Valid SHA-1
 
 SHA-1 corresponds to a specific commit
 
-#Commit containing full submission
+##Commit containing full submission
 
 Code for reading in the dataset and/or processing the data
 
